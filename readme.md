@@ -11,7 +11,7 @@ Most apps for dietary tracking use large and mostly user-submitted databases to 
 nutrition information. This naturally leads to network effects that prohibit businesses from
 innovating new apps and services. The end goal of a QR encoding format would be to have a
 readily available standard for FDA label requirements that would break up these network
-effects and provide easy access to food information for consumers using all manner or tools,
+effects and provide easy access to food information for consumers using all manner of tools,
 and without having to buy into a particular ecosystem. Encoding the nutrition label on the
 package directly removes the need for large dietary information databases. This approach is much
 more consumer friendly, and lowers the barrier to smaller business offerings.
